@@ -1,0 +1,5 @@
+#
+.vagrant/
+
+# Not sure why the following files are in this directory, but they don't look like they belong in Github
+ubuntu-xenial-16.04-cloudimg-console.log
